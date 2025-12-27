@@ -1,0 +1,56 @@
+{
+  "short_name": "Spartan FHD+",
+  "name": "SSuite Spartan Desktop FHD+",
+  "description": "SSuite Spartan Virtual Desktop FHD+: The latest in online virtual desktop access to all our best free web applications all in one place... PWA Enabled",
+  "icons": [
+    {
+      "src": "/static/pwa/ssuiteofficedesktop72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/pwa/ssuiteofficedesktop96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/pwa/ssuiteofficedesktop128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/pwa/ssuiteofficedesktop144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/pwa/ssuiteofficedesktop152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/pwa/ssuiteofficedesktop192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/pwa/ssuiteofficedesktop384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/static/pwa/ssuiteofficedesktop512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+	  "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#204060",
+  "display": "standalone",
+  "orientation": "landscape",
+  "scope": "/",
+  "theme_color": "#204060",
+  "id": "Spartan Desktop"
+}
